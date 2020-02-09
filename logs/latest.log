@@ -1,0 +1,35 @@
+[22:06:02] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:06:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:06:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:06:02] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:06:02] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:06:02] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[22:06:02] [Server thread/INFO]: Loading properties
+[22:06:02] [Server thread/INFO]: Default game type: SURVIVAL
+[22:06:02] [Server thread/INFO]: Generating keypair
+[22:06:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:06:03] [Server thread/INFO]: Using epoll channel type
+[22:06:03] [Server thread/INFO]: Preparing level "world"
+[22:06:03] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:06:06] [User Authenticator #1/INFO]: UUID of player Mcjakerz144 is 13b66d13-7841-4b30-af1d-83916c60dd4c
+[22:06:06] [Server thread/INFO]: Loaded 6 recipes
+[22:06:08] [Server thread/INFO]: Loaded 825 advancements
+[22:06:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:06:46] [Server thread/INFO]: Preparing spawn area: 0%
+[22:06:46] [Server thread/INFO]: Preparing spawn area: 0%
+[22:06:46] [Server thread/INFO]: Preparing spawn area: 0%
+[22:06:46] [Server thread/INFO]: Preparing spawn area: 0%
+[22:06:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:06:47] [Server-Worker-1/INFO]: Preparing spawn area: 43%
+[22:06:50] [Server-Worker-1/INFO]: Preparing spawn area: 79%
+[22:06:51] [Server-Worker-1/INFO]: Preparing spawn area: 79%
+[22:06:51] [Server-Worker-1/INFO]: Preparing spawn area: 79%
+[22:06:51] [Server-Worker-1/INFO]: Preparing spawn area: 79%
+[22:06:51] [Server-Worker-1/INFO]: Preparing spawn area: 79%
+[22:06:51] [Server thread/INFO]: Preparing spawn area: 79%
+[22:06:51] [Server thread/INFO]: Preparing spawn area: 79%
+[22:06:51] [Server-Worker-1/INFO]: Preparing spawn area: 99%
+[22:06:52] [Server thread/INFO]: Preparing spawn area: 99%
+[22:06:52] [Server thread/INFO]: Time elapsed: 7591 ms
+[22:06:52] [Server thread/INFO]: Done (49.035s)! For help, type "help"
+[22:06:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@2a01731b[id=13b66d13-7841-4b30-af1d-83916c60dd4c,name=Mcjakerz144,properties={textures=[com.mojang.authlib.properties.Property@75320ebb]},legacy=false] (/207.32.20.133:63300) lost connection: Disconnected
