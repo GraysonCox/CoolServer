@@ -1,0 +1,323 @@
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: 00_removed.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: 01_JEI_tooltips.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: 02_unification.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: 03_ultimate_changes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: advanced_solar.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: applied_energistics.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: chisel.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: energy_converters.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: ic2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: immersive_engineering.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: mffs.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: mps.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: railcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: techreborn.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: world_control.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: yabba.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 3ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: 00_removed.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: 01_JEI_tooltips.zs}
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <minecraft:coal_ore>: "Found in overworld from y0 to y128"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <minecraft:iron_ore>: "Found in overworld from y0 to y64"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <minecraft:gold_ore>: "Found in overworld from y0 to y32"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <minecraft:lapis_ore>: "Found in overworld from y0 to y32"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <minecraft:redstone_ore>: "Found in overworld from y0 to y16"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <minecraft:diamond_ore>: "Found in overworld from y0 to y16"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <minecraft:emerald_ore>: "Found in overworld from y0 to y16; rare chance of spawning with diamonds"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <thermalfoundation:ore>: "Found in overworld from y40 to y75"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <thermalfoundation:ore:1>: "Found in overworld from y20 to y55"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <thermalfoundation:ore:2>: "Found in overworld from y5 to y30"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <thermalfoundation:ore:3>: "Found in overworld from y5 to y30"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <thermalfoundation:ore:7>: "Found in overworld from y8 to y65; rare!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <thermalfoundation:ore:6>: "Found in overworld from y8 to y65; rare!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <thermalfoundation:ore:5>: "Found in overworld from y5 to y20"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <thermalfoundation:ore:4>: "Not found in world, Aluminum can be obtained as a by-product from Tech Reborn Bauxite Ore"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <techreborn:ore:8>: "Found in overworld from y0 to y10; rare!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <techreborn:ore:10>: "Found in overworld from y16 to y42"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <projectred-exploration:ore>: "Found in overworld from y16 to y42"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <projectred-exploration:ore:1>: "Found in overworld from y16 to y42"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <projectred-exploration:ore:2>: "Found in overworld from y48 to y72"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <forestry:resources>: "Found in overworld from y54 to y96"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <appliedenergistics2:quartz_ore>: "Found in overworld from y24 to y48"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <projectred-exploration:ore:6>: "Found in overworld from y0 to y16"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <ic2:resource:4>: "Found in overworld from y16 to y42"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modularforcefieldsystem:monazit_ore>: "Found in overworld from y20 to y60"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <techreborn:ore>: "Found in overworld from y12 to y32"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <thaumcraft:ore_cinnabar>: "Found in overworld from y20 to y65"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <thaumcraft:ore_amber>: "Found in overworld from y20 to y65"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <techreborn:ore:4>: "Found in overworld from y48 to y65"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <retroexchange:transmutation_shard>: "Rare drop from mobs."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <retroexchange:transmutation_stone>: "Transmute blocks in world and items in crafting table."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <buildcraftfactory:pump>: "Disabled for performance reasons.  Use Industrial Foregoing Fluid Pump for all your pumping needs!"
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: 02_unification.zs}
+[INITIALIZATION][SERVER][INFO] Trying to remove Crafting Table recipes for kind: plate
+[INITIALIZATION][SERVER][INFO] Trying to remove Crafting Table recipes for kind: gear
+[INITIALIZATION][SERVER][INFO] Removing Charged Certus Quartz Ore from ore dictionary entry oreCertusQuartz
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: 03_ultimate_changes.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: advanced_solar.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: applied_energistics.zs}
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <appliedenergistics2:sky_compass>: "Meteors and Presses Disabled! Check JEI for new processor recipes!"
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: chisel.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: energy_converters.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: ic2.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: immersive_engineering.zs}
+[INITIALIZATION][SERVER][INFO] Translating item.immersiveengineering.metal.dust_uranium.name to Pulverized Uranium
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: mffs.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: mps.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: railcraft.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: techreborn.zs}
+[INITIALIZATION][SERVER][INFO] Adding ALLOY_SMELTER_RECIPE recipe for Constantan Ingot
+[INITIALIZATION][SERVER][INFO] Removing INDUSTRIAL_GRINDER_RECIPE recipe
+[INITIALIZATION][SERVER][INFO] Adding INDUSTRIAL_GRINDER_RECIPE recipe for Pulverized Iridium
+[INITIALIZATION][SERVER][INFO] Adding INDUSTRIAL_GRINDER_RECIPE recipe for Pulverized Iridium
+[INITIALIZATION][SERVER][INFO] Removing INDUSTRIAL_GRINDER_RECIPE recipe
+[INITIALIZATION][SERVER][INFO] Adding INDUSTRIAL_GRINDER_RECIPE recipe for Pulverized Uranium
+[INITIALIZATION][SERVER][INFO] Adding INDUSTRIAL_GRINDER_RECIPE recipe for Pulverized Uranium
+[INITIALIZATION][SERVER][INFO] Removing GRINDER_RECIPE recipe
+[INITIALIZATION][SERVER][INFO] Removing CENTRIFUGE_RECIPE recipe for Sap
+[INITIALIZATION][SERVER][INFO] Adding CENTRIFUGE_RECIPE recipe for Carbon Cell
+[INITIALIZATION][SERVER][INFO] Adding DISTILLATION_TOWER_RECIPE recipe for Sulfuric Acid Cell
+[INITIALIZATION][SERVER][INFO] Adding DISTILLATION_TOWER_RECIPE recipe for Ethanol Cell
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: world_control.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: yabba.zs}
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <yabba:item_barrel>: "Stores 64 stacks of one item type"
+[INITIALIZATION][SERVER][INFO] Translating item.yabba.upgrade_iron_tier.name to Extra-Dimensional Storage
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <yabba:upgrade_iron_tier>: "Increase barrel storage to 1024 stacks"
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 709ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Gear with name ct_shaped-1570388522
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Gear with name ct_shaped-1397309258
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gold Gear with name ct_shaped1447251511
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Emerald Gear with name ct_shaped-1552926537
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond Gear with name ct_shaped-2105558090
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Tin Gear with name ct_shaped1739680460
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Aluminum Gear with name ct_shaped-1967312668
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Steel Gear with name ct_shaped971235882
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lead Gear with name ct_shaped-2019826738
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Copper Gear with name ct_shaped2127795531
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Silver Gear with name ct_shaped-674553523
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Nickel Gear with name ct_shaped746384741
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Electrum Gear with name ct_shaped-1958565845
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Invar Gear with name ct_shaped-628450047
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Constantan Gear with name ct_shaped2070653635
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Signalum Gear with name ct_shaped-1128984252
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Brass Gear with name ct_shaped820494998
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lumium Gear with name ct_shaped2037903813
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bronze Gear with name ct_shaped1248166850
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pulverized Platinum with name ct_shapeless564089404
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pulverized Tin with name ct_shapeless-1972161298
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pulverized Gold with name ct_shapeless-807804658
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pulverized Lead with name ct_shapeless-837686700
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pulverized Silver with name ct_shapeless-1241774987
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pulverized Iron with name ct_shapeless1684514085
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pulverized Copper with name ct_shapeless-104304329
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Zinc Dust with name ct_shapeless-12612264
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pulverized Iron with name ct_shapeless1593454993
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pulverized Nickel with name ct_shapeless703410386
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pulverized Platinum with name ct_shapeless2085607732
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Quarried Stone with name ct_shaped868210012
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Abyssal Stone with name ct_shaped-903653447
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Long Fall Boots with name ct_shaped-29209942
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Power Armor Tinker Table with name ct_shaped-1624962492
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sunnarium Part with name ct_shaped802958320
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sunnarium with name ct_shaped-1751768291
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sunnarium Part with name ct_shaped1358116880
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sunnarium with name ct_shaped-1825468035
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for mcr_face.4.name with name ct_shaped670910100
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for mcr_face.2.name with name ct_shaped491177921
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for mcr_face.4.name with name ct_shaped-156917698
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for mcr_edge.4.name with name ct_shaped-651075045
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for mcr_edge.2.name with name ct_shaped1774949433
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Wired Modem with name ct_shaped-1772756257
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Essence of Scornful Oblivion with name ct_shaped1360171318
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Nano Bot Swarm with name ct_shaped1765534373
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Advanced Solar Helmet with name ct_shaped-1120656482
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Hybrid Solar Helmet with name ct_shaped-689051606
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Ultimate Hybrid Solar Helmet with name ct_shaped-1214493312
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Ultimate Hybrid Solar Helmet with name ct_shapeless1047533695
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Printed Logic Circuit with name ct_shaped265086012
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Printed Logic Circuit with name ct_shaped1590762918
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Printed Engineering Circuit with name ct_shaped-933893453
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Printed Engineering Circuit with name ct_shaped1958976477
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Printed Calculation Circuit with name ct_shaped-1625943634
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Printed Calculation Circuit with name ct_shaped-223846268
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Fluix Crystal with name ct_shapeless-1494239518
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for ME Quantum Ring with name ct_shaped1764992172
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Charged Staff with name ct_shaped-2119187021
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Certus Quartz Crystal with name ct_shapeless-1185156451
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for ME Glass Cable - Fluix with name ct_shaped1065590351
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for LV Energy Producer (IC2) with name ct_shapeless403898822
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for LV Energy Producer (IC2) with name ct_shaped-541045081
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Advanced Lappack with name ct_shaped-1847821823
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for MV Energy Producer (IC2) with name ct_shapeless626343284
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for MV Energy Producer (IC2) with name ct_shaped-231603505
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Advanced Lappack with name ct_shaped-1847821822
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for HV Energy Producer (IC2) with name ct_shapeless-1696761034
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for HV Energy Producer (IC2) with name ct_shaped-397984978
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Advanced Lappack with name ct_shaped-1847821821
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for EV Energy Producer (IC2) with name ct_shapeless275101944
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for EV Energy Producer (IC2) with name ct_shaped-1447657694
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for IV Energy Producer (IC2) with name ct_shapeless-2048002374
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for IV Energy Producer (IC2) with name ct_shaped1806700066
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for MJ Energy Producer with name ct_shapeless1274205600
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for MJ Energy Producer with name ct_shaped1637557989
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Pulverized Platinum with name ct_shaped-677754572
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Advanced Lappack with name ct_shaped-1847821820
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Ultimate Lappack with name ct_shaped53127508
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iridium Reinforced Plate with name ct_shapeless856970049
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Magnalium Plate with name ct_shapeless768855275
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Empty Cell with name ct_shapeless1856155931
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Empty Cell with name ct_shapeless2068095889
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Advanced Alloy with name ct_shapeless843806880
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Refined Iron Plate with name ct_shapeless901945260
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iridium Neutron Reflector with name ct_shaped-1660007195
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Thick Neutron Reflector with name ct_shaped-9067166
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Tin Can with name ct_shaped-1735181902
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Thick Neutron Reflector with name ct_shaped1510347678
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Nuke with name ct_shaped1150246389
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Fluix Transformer with name ct_shaped-1778271064
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Fluix Wire Coil with name ct_shaped1235369562
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Fluix Wire Relay with name ct_shaped1598605379
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Quartz Fiber Connector with name ct_shaped465316070
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Kinetic Dynamo with name ct_shaped-1593155041
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Redstone Wire Coil with name ct_shaped1772120447
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Steel Cable Coil with name ct_shaped443900158
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for HV Wire Coil with name ct_shaped-498053124
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for MV Wire Coil with name ct_shaped-1583441989
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for LV Wire Coil with name ct_shaped-98780604
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for HV Wire Relay with name ct_shaped1052692692
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Transformer with name ct_shaped-1259500175
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for HV Transformer with name ct_shaped334932427
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Engineer's Skyhook with name ct_shaped992367301
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for MFFS Control System with name ct_shaped-1859872574
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for MFFS Secure Storage with name ct_shaped-620569940
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Projector Upgrade: Focus Matrix with name ct_shaped2059512213
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Projector Upgrade: Focus Matrix with name ct_shaped2059512214
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Projector Module: Deflector with name ct_shaped1737051487
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Projector Module: Deflector with name ct_shaped1837619759
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Projector Module: Advanced Cube with name ct_shaped152308049
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Projector Module: Cube with name ct_shaped-1648121132
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Projector Module: Containment with name ct_shaped1531121959
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Projector Module: Wall with name ct_shaped818558811
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Projector Module: Sphere with name ct_shaped-648839876
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Projector Option: Camoflage with name ct_shaped-1923471579
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Force Power Crystal with name ct_shaped-2042228137
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Wiring with name ct_shaped963973731
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Ion Thruster with name ct_shaped-2008822392
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Void Powder with name ct_shapeless1181579754
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Void Powder with name ct_shapeless-1885302916
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Electric Locomotive with name ct_shaped-1400621775
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Electric Locomotive with name ct_shaped1425400672
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Electric Locomotive with name ct_shaped-1943583023
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Electric Locomotive with name ct_shaped-1122334148
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Ticket Machine with name ct_shaped24158969
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for White Metal Post with name ct_shaped-560465358
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Orange Metal Post with name ct_shaped-761816862
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Magenta Metal Post with name ct_shaped-1101974662
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Light Blue Metal Post with name ct_shaped-1022804142
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Yellow Metal Post with name ct_shaped-209103905
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lime Metal Post with name ct_shaped251917919
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Pink Metal Post with name ct_shaped-1965891489
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gray Metal Post with name ct_shaped140273555
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Light Gray Metal Post with name ct_shaped-837170300
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Cyan Metal Post with name ct_shaped-1798545067
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Purple Metal Post with name ct_shaped-1792262428
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Blue Metal Post with name ct_shaped-1888910265
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Brown Metal Post with name ct_shaped-1962177892
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Green Metal Post with name ct_shaped-1808232818
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Red Metal Post with name ct_shaped-1898379617
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Reinforced Track with name ct_shaped-1868401329
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Gunpowder with name ct_shapeless1149183532
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Invar Blend with name ct_shapeless-702427082
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Aluminum Ingot with name ct_shapeless-604840357
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Tungsten Ingot with name ct_shapeless-1751424939
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Titanium Ingot with name ct_shapeless-1777513979
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Titanium Ingot with name ct_shaped1702095502
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Alarm with name ct_shaped-999183395
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Transformer Upgrade with name ct_shapeless1154687879
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Transformer Upgrade with name ct_shapeless839608903
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Overclocker Upgrade with name ct_shapeless1236442073
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Overclocker Upgrade with name ct_shapeless-903477031
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Energy Storage Upgrade with name ct_shapeless1506411337
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Energy Storage Upgrade with name ct_shapeless2085296905
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Energy Flow Circuit with name ct_shaped-1321748823
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for UU-Matter with name ct_shapeless-1228340927
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for UU-Matter with name ct_shapeless-1414659007
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Rolling Machine with name ct_shaped-217358557
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Implosion Compressor with name ct_shaped-703054997
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Industrial Blast Furnace with name ct_shaped-1658062690
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Industrial Electrolyzer with name ct_shaped-2140107505
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Industrial Centrifuge with name ct_shaped-1158205895
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Alloy Furnace with name ct_shaped-687414475
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Alloy Smelter with name ct_shaped-993300224
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Industrial Grinder with name ct_shaped1340215955
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Plasma Generator with name ct_shaped188918554
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Semi Fluid Generator with name ct_shaped1005430263
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Thermal Generator with name ct_shaped487133143
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diesel Generator with name ct_shaped-1164756834
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gas Turbine with name ct_shaped1269338887
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Charge-O-Mat with name ct_shaped-186869962
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lapotronic Energy Orb with name ct_shaped1281026820
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Nanosaber with name ct_shaped-1642558075
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Incandescent Lamp with name ct_shaped-994968123
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Howler Alarm with name ct_shaped-664311931
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Industrial Alarm with name ct_shaped-928253252
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Basic Info Panel with name ct_shaped-338567943
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Basic Info Panel Extender with name ct_shaped737313107
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for IC2 Thermal Monitor with name ct_shaped-764212568
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Thermometer with name ct_shaped-1392486739
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Thermometer with name ct_shaped846393976
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for EU Reactor Kit with name ct_shaped-1009947456
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for EU Energy Kit with name ct_shaped-791435870
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Fluid Kit with name ct_shaped-1529747151
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Forge Energy Kit with name ct_shaped-1345310295
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Time Card with name ct_shapeless1019459691
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Range Upgrade with name ct_shaped-651863682
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Color Upgrade with name ct_shaped1756563581
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Portable Information Panel with name ct_shaped1790748237
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Item Barrel with name ct_shaped-314987597
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Extra-Dimensional Storage with name ct_shaped1534005381
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Item Barrel Connector with name ct_shaped-637466781
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Barrel Wrench with name ct_shaped-663135064
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Barrel Painter with name ct_shaped-1032878384
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Barrel Hammer with name ct_shaped-1563645055
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <thermalfoundation:material:132>
+[POSTINITIALIZATION][SERVER][INFO] 2 recipes removed for: <thermalfoundation:material:132>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <appliedenergistics2:material:16>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <appliedenergistics2:material:17>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <appliedenergistics2:material:18>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <ic2:crafting>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <techreborn:part:32>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <ic2:crushed>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <ic2:crushed:1>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <ic2:crushed:2>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <ic2:crushed:3>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <ic2:crushed:4>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <ic2:crushed:5>
+[AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:768> and <minecraft:iron_ingot>
+[AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:769> and <minecraft:iron_ingot>
+[AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:768> and <thermalfoundation:material>
+[AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:769> and <thermalfoundation:material>
+[AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <railcraft:fuel_coke> and <minecraft:iron_ingot>
+[AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <railcraft:fuel_coke> and <thermalfoundation:material>
+[AVAILABLE][SERVER][INFO] Altering RedstoneFurnace Recipe(s) for <thermalfoundation:material:68>
+[AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:68> and <minecraft:sand>
+[AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <minecraft:rail> and <minecraft:sand>
+[AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <minecraft:golden_rail> and <minecraft:sand>
+[AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <thaumcraft:ingot:1>
+[AVAILABLE][SERVER][INFO] Altering Compactor Recipe(s) for <techreborn:ingot:22> in mode: PLATE
+[AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <techreborn:dynamiccell>
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: basalt and item: 1xtile.projectred.exploration.stone@3
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: basalt and item: 1xtile.railcraft.generic@8
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: marble and item: 1xtile.projectred.exploration.stone@0
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: marble and item: 1xtile.railcraft.generic@9
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: limestone and item: 1xtile.railcraft.brick.sandy@2
+[AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <techreborn:dust:43>
+[AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <techreborn:dust:36>
+[AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <techreborn:dust:45>
